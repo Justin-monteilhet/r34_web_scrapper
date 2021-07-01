@@ -8,7 +8,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 ## Documentation
 
-Read the documentation at [readthedocs](https://rule-34-api-wrapper.readthedocs.io).
+Read the documentation [here](https://github.com/Justin-monteilhet/r34_api_wrapper/doc.md).
 
 ```bash
 pip install rule34-api-wrapper
