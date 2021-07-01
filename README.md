@@ -6,6 +6,10 @@ Rule 34 API wrapper is a Python library for dealing with rule34 website posts, a
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
+## Documentation
+
+Read the documentation at [readthedocs](https://rule-34-api-wrapper.readthedocs.io).
+
 ```bash
 pip install rule34-api-wrapper
 ```
