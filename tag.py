@@ -6,6 +6,7 @@ class Tag(object):
     
     def __init__(self, name:str):
         self.name = name
+        self.url = f'https://rule34.xxx/index.php?s=list&page=list&tags={name}'
     
     def __str__(self):
         return self.name
